@@ -1,5 +1,5 @@
 # opendiskbench
-Open Source, Light-weight disk benchmark program.
+Open Source, light-weight disk benchmark program.
 
 ---
 ## Licenses
